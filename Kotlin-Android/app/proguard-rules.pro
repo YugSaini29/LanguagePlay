@@ -1,5 +1,0 @@
--keep class in.languageplay.meowguru.data.** { *; }
--keepattributes Signature
--keepattributes *Annotation*
--dontwarn okhttp3.**
--dontwarn retrofit2.**
